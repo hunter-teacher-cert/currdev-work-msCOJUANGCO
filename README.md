@@ -1,5 +1,5 @@
-#### Last name: Cojuangco
-#### First name: Nicole
+#### Last name: Cojuangco 
+#### First name: Nicole Caballes
 #### Github username: msCOJUANGCO
 
 #### Instructions:
