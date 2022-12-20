@@ -33,4 +33,5 @@ Teaches design thinking in units that are hybrid of basic Computer Science and D
 * for the accessibility to beginners
 * the visual basis helps make debugging more approachable and the solution more obvious
 * when they create something, the kids take a lot of pride in others' reactions to it; non programmers seem to be more impressed by things with visuals (even if they're simple and create seeminlgy complex forms from loops) i think possibly because they may not understand how much skill or levels of complexity to some other processing outputs that aren't as visually impressive
-* i have a retro arcade unit idea that has a constraint of limiting the graphics of game components to be in the style of 8-bit games; this would be perfect for that!  
+* i have a retro arcade unit idea that has a constraint of limiting the graphics of game components to be in the style of 8-bit games; this would be perfect for that!
+* 
